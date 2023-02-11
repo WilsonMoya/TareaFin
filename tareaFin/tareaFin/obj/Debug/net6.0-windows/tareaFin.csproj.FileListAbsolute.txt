@@ -1,0 +1,17 @@
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.Form1.resources
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\bin\Debug\net6.0-windows\tareaFin.exe
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\bin\Debug\net6.0-windows\tareaFin.deps.json
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\bin\Debug\net6.0-windows\tareaFin.runtimeconfig.json
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\bin\Debug\net6.0-windows\tareaFin.dll
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\bin\Debug\net6.0-windows\tareaFin.pdb
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.dll
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\refint\tareaFin.dll
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.pdb
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\tareaFin.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\lenguaje 3\TareaFin\tareaFin\tareaFin\obj\Debug\net6.0-windows\ref\tareaFin.dll
